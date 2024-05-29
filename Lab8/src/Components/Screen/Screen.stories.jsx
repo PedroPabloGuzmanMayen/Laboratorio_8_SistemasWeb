@@ -1,13 +1,13 @@
-import Button from './Button'
+import Screen from './Screen'
 
 const meta = {
-    component: Button
+    component: Screen,
 }
 
 export default meta
 
 export const Default = {
-    args: {
+    args : {
         text: '0'
     }
 }

@@ -1,0 +1,21 @@
+.text {
+    font-size: 100px;
+    color: black;
+    background-color: darkolivegreen;
+    border-color: black;
+    border: 5px solid;
+    width: 600px;
+    height: 150px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: flex-start;
+    align-items: end;
+}
+
+.Screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-sizing: border-box;
+}
